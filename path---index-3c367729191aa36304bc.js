@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{507:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Marge apps"}},allMarkdownRemark:{edges:[{node:{excerpt:"Currency Conversion for LiveChat Inc is a handy free tool, that will convert currency values quickly and efficiently. The installation is…",fields:{slug:"/currency-conversion-for-livechat/"},frontmatter:{date:"01 June, 2018",title:"Currency Conversion for LiveChat Inc"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-3c367729191aa36304bc.js.map
