@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Marge apps',
     description: 'Two developers making open source projects for fun and maybe profit.',
-    siteUrl: 'https://gatsbyjs.github.io/',
+    siteUrl: 'https://marge-apps.github.io/',
   },
   pathPrefix: '/',
   plugins: [
