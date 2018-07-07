@@ -1,8 +1,9 @@
 {
-  "name": "Marge apps website",
+	"name": "marge-apps-website",
   "description": "Marge apps website",
   "version": "1.0.0",
-  "author": "Marios Antonoudiou <mariosant@sent.com>",
+	"author": "Marios Antonoudiou <mariosant@sent.com>",
+	"private": true,
   "bugs": {
     "url": "https://github.com/marge-apps/marge-apps.github.io"
   },
